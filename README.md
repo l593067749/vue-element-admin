@@ -1,3 +1,5 @@
+
+声明：这个是别人的项目，我所以另建一份，是为了方便自己以后的整合例子。
 # vue-element-admin #
 
 [![vue](https://img.shields.io/badge/vue-2.4.2-brightgreen.svg)](https://github.com/vuejs/vue)
